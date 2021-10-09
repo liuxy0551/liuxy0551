@@ -2,7 +2,7 @@
 
 ### 你好，我的花名是 琉易 👋
 
-#### 你还可以用下面的方式找到我
+#### 可以通过下面的方式找到我
 
 - 🔭 个人网站： <a href="https://liuxianyu.cn" target="_black">https://liuxianyu.cn</a>
 - 📫 个人邮箱：liuxy0551@qq.com
